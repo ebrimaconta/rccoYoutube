@@ -1,0 +1,18 @@
+ul.videos {
+  list-style-type: none;
+}
+
+.header{
+  margin-left: 37px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul.videos li{
+  float:left;
+  width:220px;
+  margin-right: 119px;
+  margin-bottom: 11px;
+}
